@@ -5,7 +5,7 @@
 
     <groupId>com.example.model</groupId>
     <artifactId>message-types</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>message-types</name>
 
@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:${project.scm.url}</connection>
         <url>https://github.com/dev-future-tech/pulsar-message-types.git</url>
-        <tag>0.0.1-SNAPSHOT</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
